@@ -5,6 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/OfficeMayhem/Levels/AnthTest.umap",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/Levels/AnthTest.umap",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/OfficeMayhem/Blueprints/BP_Player.uasset",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/OfficeMayhem/Input/IMC_OfficeMayhem.uasset",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/OfficeMayhem/Blueprints/BP_PlayerController.uasset",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/OfficeMayhem/Input/IA_Look.uasset",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/OfficeMayhem/Input/IA_Assist.uasset",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/OfficeMayhem/Input/IA_Cycle.uasset",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/OfficeMayhem/Input/IA_Throw.uasset",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/OfficeMayhem/Blueprints/S_ThrowableStats.uasset",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/OfficeMayhem/Blueprints/DT_Throwables.uasset",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/OfficeMayhem/Blueprints/BP_Throwable.uasset",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/OfficeMayhem/Materials/M_Dash.uasset",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/OfficeMayhem/Models/SM_SM_Dash.uasset",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/OfficeMayhem/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
 				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/Content/Levels/AnthTest.umap"
 			]
