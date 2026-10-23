@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/ponderingpanda/Documents/Unreal Projects/OfficeMayhem/Content/Levels/AnthTest.umap"
+			]
+		}
+	]
+}
